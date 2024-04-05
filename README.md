@@ -11,7 +11,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-AWS?logo=amazonaws)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect
 
 <a href="https://www.linkedin.com/in/jonattaninfante/"><img src="https://img.shields.io/badge/-jonattan%20infante-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+### GitHub Public Stats
+
+![Jonattan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonattan-infante&theme=dark&show_icons=true)
